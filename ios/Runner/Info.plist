@@ -12,6 +12,8 @@
     <string>This app needs access to location when in the background to detect beacons and bluetooth devices.</string>
 <key>NSBluetoothAlwaysUsageDescription</key>
 <string>Our app needs to stay connected to BLE devices to function correctly even when you're not actively using the app.</string>
+<key>NSBluetoothAlwaysUsageDescription</key>
+<string>App needs Bluetooth to broadcast attendance beacon.</string>
 
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
